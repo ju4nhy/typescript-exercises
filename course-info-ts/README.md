@@ -1,0 +1,1 @@
+Simple typescript exercise for Fullstackopen Part 9: Typescript
